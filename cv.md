@@ -21,3 +21,27 @@ I have never worked in IT before. I really want to learn front-end and learn how
 + SQL (MongoDB, MySql)
 + JavaScript (basic)
 
+## Code Examples 
+
+```javascript
+const findAverage = (array) => {
+    return array.length ? array.reduce((a, b) => a + b) / array.length : 0;
+};
+
+findAverage([1, 2, 3, 4, 5]);   // output: 7.5
+```
+
+## Education 
+
++ Kaliningrad's State College of Urban Planning
++ Courses:
+    + HTML Academy - _Frontent developer_
+    + Udemy - _Full JavaScript Course(2021)_(in progress)
+    + YouTube courses (HTML, CSS, JavaScript)
+
+
+## Languages 
+
++ Russian 
++ Italian
++ English (A1 basic)
