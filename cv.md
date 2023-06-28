@@ -28,7 +28,7 @@ const findAverage = (array) => {
     return array.length ? array.reduce((a, b) => a + b) / array.length : 0;
 };
 
-findAverage([1, 2, 3, 4, 5]);   // output: 7.5
+findAverage([1, 2, 3, 4, 5]);   // output: 3
 ```
 
 ## Education 
