@@ -11,7 +11,7 @@
 
 ## About me
 
-I have never worked in IT before. I really want to learn front-end and learn how to program. I believe that this knowledge will change my life for the better. I think thanks to my perseverance and determination, I can achieve results.
+I have never worked in IT before. I really want to learn front-end and learn how to program. Now I spend a lot of time studying. I believe that this knowledge will change my life for the better. I think thanks to my perseverance and determination, I can achieve results.
 
 ## My Skills
 
@@ -35,7 +35,7 @@ findAverage([1, 2, 3, 4, 5]);   // output: 7.5
 
 + Kaliningrad's State College of Urban Planning
 + Courses:
-    + HTML Academy - _Frontent developer_
+    + HTML Academy - _Frontend developer_
     + Udemy - _Full JavaScript Course(2021)_(in progress)
     + YouTube courses (HTML, CSS, JavaScript)
 
