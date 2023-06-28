@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Cruster161.github.io/rsschool-cv/cv
